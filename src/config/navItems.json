@@ -1,0 +1,39 @@
+[
+  {
+    "path": "/company",
+    "icon": "fas fa-building",
+    "name": "Company space",
+    "enable": true
+  },
+  {
+    "path": "/user",
+    "icon": "fas fa-user",
+    "name": "Personal space",
+    "enable": true
+  },
+  {
+    "path": "/projects",
+    "icon": "fas fa-folder-open",
+    "name": "Projects",
+    "enable": true
+  },
+  {
+    "path": "/pdftron",
+    "icon": "fas fa-file-pdf",
+    "name": "PDFTron",
+    "enable": true
+  },
+
+  {
+    "path": "/toolbox",
+    "icon": "fas fa-toolbox",
+    "name": "Toolbox",
+    "enable": false
+  },
+  {
+    "path": "/signout",
+    "icon": "fas fa-sign-out-alt",
+    "name": "Sign out",
+    "enable": true
+  }
+]
